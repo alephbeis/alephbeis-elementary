@@ -2,7 +2,7 @@
 
 # Alephbeis Elementry Font
 
-This repo contains the Alephbeis Elementry Font designed by [Meir Sadan](https://meirsadan.com/) in collaboration with the team at [Alephbeis](alephbeis.org).
+This repo contains the Alephbeis Elementry Font designed by [Meir Sadan](https://meirsadan.com/) in collaboration with the team at [Alephbeis](https://alephbeis.org/).
 
 ## About
 
